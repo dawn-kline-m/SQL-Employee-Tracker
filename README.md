@@ -1,5 +1,13 @@
 # 12 SQL: Employee Tracker
 
+## Table of Contents
+- [Description](#description)
+- [User Specifications](#user-specifications)
+- [Functionality](#functionality)
+- [Mock-Up](#mock-up)
+- [Usage](#usage)
+- [Deliverables](#deliverables)
+
 ## Description
 
 Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called content management systems (CMS). This challenge is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
@@ -36,8 +44,26 @@ The following video shows an example of the application being used from the comm
 
 [![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./Assets/12-sql-homework-video-thumbnail.png)](https://2u-20.wistia.com/medias/2lnle7xnpk)
 
+## Usage
+![Screenshot](assets/screenshot1.png)
+
+![Screenshot](assets/screenshot2.png)
+
+![Screenshot](assets/screenshot3.png)
+
+![Screenshot](assets/screenshot4.png)
+
+![Screenshot](assets/screenshot5.png)
+
+![Screenshot](assets/screenshot6.png)
+
+![Screenshot](assets/screenshot7.png)
+
+![Screenshot](assets/screenshot8.png)
+
 ## Deliverables
 
-The following walkthrough video demonstrates the functionality of the application: 
+The following walkthrough video demonstrates the functionality of the application:  
+https://watch.screencastify.com/v/h8jsiVxfjH5R2LBYfi4u
 
 The URL of the GitHub repository: https://github.com/dawn-kline-m/SQL-Employee-Tracker
