@@ -45,21 +45,21 @@ The following video shows an example of the application being used from the comm
 [![A video thumbnail shows the command-line employee management application with a play button overlaying the view.](./Assets/12-sql-homework-video-thumbnail.png)](https://2u-20.wistia.com/medias/2lnle7xnpk)
 
 ## Usage
-![Screenshot](Assets/screenshot1.png)
+![Screenshot](Assets/Screenshot1.png)
 
-![Screenshot](Assets/screenshot2.png)
+![Screenshot](Assets/Screenshot2.png)
 
-![Screenshot](Assets/screenshot3.png)
+![Screenshot](Assets/Screenshot3.png)
 
-![Screenshot](Assets/screenshot4.png)
+![Screenshot](Assets/Screenshot4.png)
 
-![Screenshot](Assets/screenshot5.png)
+![Screenshot](Assets/Screenshot5.png)
 
-![Screenshot](Assets/screenshot6.png)
+![Screenshot](Assets/Screenshot6.png)
 
-![Screenshot](Assets/screenshot7.png)
+![Screenshot](Assets/Screenshot7.png)
 
-![Screenshot](Assets/screenshot8.png)
+![Screenshot](Assets/Screenshot8.png)
 
 ## Deliverables
 
